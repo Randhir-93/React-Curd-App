@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.app-container {
+  min-height: 100vh;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.user-list-conatiner {
+  margin: 0 auto;
+}

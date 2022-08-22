@@ -1,0 +1,38 @@
+.user-details {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.info .row {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 10px 0;
+    color: #292626;
+}
+
+.info label:first-child {
+    width: 30%;
+}
+
+.info label:last-child {
+    width: 70%;
+    text-align: right;
+    font-size: 14px;
+}
+
+.back-link {
+    display: flex; 
+    justify-content: right;
+    padding-top: 10;
+    text-decoration: none;
+}

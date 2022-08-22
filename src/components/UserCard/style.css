@@ -1,0 +1,10 @@
+.card {
+    width: 400px;
+    display: flex;
+    justify-content: space-between; 
+}
+.detail-link {
+    display: flex;
+    text-decoration: none;
+    color: #383535
+}
